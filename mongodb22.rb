@@ -15,7 +15,7 @@ class SixtyFourBitRequired < Requirement
   end
 end
 
-class Mongodb < Formula
+class Mongodb22 < Formula
   homepage 'http://www.mongodb.org/'
   url 'http://downloads.mongodb.org/osx/mongodb-osx-x86_64-2.2.6.tgz'
   sha1 '8330af30cd7e7b56f62a7d21177a9022e87fbdea'
