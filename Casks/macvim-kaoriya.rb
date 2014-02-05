@@ -1,4 +1,4 @@
-class MacVimKaoriya < Cask
+class MacvimKaoriya < Cask
   url 'https://github.com/splhack/macvim/releases/download/20140106/macvim-kaoriya-20140106.dmg'
   homepage 'https://code.google.com/p/macvim-kaoriya/'
   version '20140106'
